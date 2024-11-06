@@ -1,1 +1,16 @@
 Copy and paste output of ex_1_intermediate_runfile.py below:
+Total number of samples collected: 45
+Species with more than 15 samples: ['Bacteria']
+Enter a new species name to add (or type 'stop' to end): Bacteria
+Enter the number of samples collected for Bacteria: 20
+Enter a new species name to add (or type 'stop' to end): Virus
+Enter the number of samples collected for Virus: 8
+Enter a new species name to add (or type 'stop' to end): Monkeys
+Enter the number of samples collected for Monkeys: 10
+Enter a new species name to add (or type 'stop' to end): Insects
+Enter the number of samples collected for Insects: 2
+Enter a new species name to add (or type 'stop' to end): stop
+Final species dictionary with updated sample counts:
+{'Bacteria': 40, 'Archaea': 15, 'Fungi': 10, 'Virus': 8, 'Monkeys': 10, 'Insects': 2}
+
+Process finished with exit code 0
